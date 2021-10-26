@@ -1,0 +1,12 @@
+/Users/williamrochelle/Projects/Bank/Bank/bin/Debug/netcoreapp3.1/Bank.deps.json
+/Users/williamrochelle/Projects/Bank/Bank/bin/Debug/netcoreapp3.1/Bank.runtimeconfig.json
+/Users/williamrochelle/Projects/Bank/Bank/bin/Debug/netcoreapp3.1/Bank.runtimeconfig.dev.json
+/Users/williamrochelle/Projects/Bank/Bank/bin/Debug/netcoreapp3.1/Bank.dll
+/Users/williamrochelle/Projects/Bank/Bank/bin/Debug/netcoreapp3.1/Bank.pdb
+/Users/williamrochelle/Projects/Bank/Bank/obj/Debug/netcoreapp3.1/Bank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/williamrochelle/Projects/Bank/Bank/obj/Debug/netcoreapp3.1/Bank.AssemblyInfoInputs.cache
+/Users/williamrochelle/Projects/Bank/Bank/obj/Debug/netcoreapp3.1/Bank.AssemblyInfo.cs
+/Users/williamrochelle/Projects/Bank/Bank/obj/Debug/netcoreapp3.1/Bank.csproj.CoreCompileInputs.cache
+/Users/williamrochelle/Projects/Bank/Bank/obj/Debug/netcoreapp3.1/Bank.dll
+/Users/williamrochelle/Projects/Bank/Bank/obj/Debug/netcoreapp3.1/Bank.pdb
+/Users/williamrochelle/Projects/Bank/Bank/obj/Debug/netcoreapp3.1/Bank.genruntimeconfig.cache
